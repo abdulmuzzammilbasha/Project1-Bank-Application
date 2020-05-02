@@ -1,6 +1,8 @@
 # Project1-Bank-Application
 Bank application to deposit, withdraw, check last transaction and to check balance using java code.
 
+Help me to minimize and make this code even better, effective and effecient;
+
 import java.util.Scanner;
 import java.lang.Math;
 
